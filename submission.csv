@@ -1,9 +1,9 @@
-PassengerId,Name,Sex,Survive prediction
+PassengerId,Name,Sex,Survived
 892,"Kelly, Mr. James",male,0
-893,"Wilkes, Mrs. James (Ellen Needs)",female,1
+893,"Wilkes, Mrs. James (Ellen Needs)",female,0
 894,"Myles, Mr. Thomas Francis",male,0
 895,"Wirz, Mr. Albert",male,0
-896,"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",female,1
+896,"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",female,0
 897,"Svensson, Mr. Johan Cervin",male,0
 898,"Connolly, Miss. Kate",female,1
 899,"Caldwell, Mr. Albert Francis",male,0
@@ -17,7 +17,7 @@ PassengerId,Name,Sex,Survive prediction
 907,"del Carlo, Mrs. Sebastiano (Argenia Genovesi)",female,1
 908,"Keane, Mr. Daniel",male,0
 909,"Assaf, Mr. Gerios",male,0
-910,"Ilmakangas, Miss. Ida Livija",female,1
+910,"Ilmakangas, Miss. Ida Livija",female,0
 911,"Assaf Khalil, Mrs. Mariana (Miriam"")""",female,1
 912,"Rothschild, Mr. Martin",male,0
 913,"Olsen, Master. Artur Karl",male,1
@@ -27,20 +27,20 @@ PassengerId,Name,Sex,Survive prediction
 917,"Robins, Mr. Alexander A",male,0
 918,"Ostby, Miss. Helene Ragnhild",female,1
 919,"Daher, Mr. Shedid",male,0
-920,"Brady, Mr. John Bertram",male,0
+920,"Brady, Mr. John Bertram",male,1
 921,"Samaan, Mr. Elias",male,0
 922,"Louch, Mr. Charles Alexander",male,0
 923,"Jefferys, Mr. Clifford Thomas",male,0
-924,"Dean, Mrs. Bertram (Eva Georgetta Light)",female,1
-925,"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",female,1
+924,"Dean, Mrs. Bertram (Eva Georgetta Light)",female,0
+925,"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",female,0
 926,"Mock, Mr. Philipp Edmund",male,0
 927,"Katavelas, Mr. Vassilios (Catavelas Vassilios"")""",male,0
-928,"Roth, Miss. Sarah A",female,1
-929,"Cacic, Miss. Manda",female,1
+928,"Roth, Miss. Sarah A",female,0
+929,"Cacic, Miss. Manda",female,0
 930,"Sap, Mr. Julius",male,0
-931,"Hee, Mr. Ling",male,0
+931,"Hee, Mr. Ling",male,1
 932,"Karun, Mr. Franz",male,0
-933,"Franklin, Mr. Thomas Parham",male,0
+933,"Franklin, Mr. Thomas Parham",male,1
 934,"Goldsmith, Mr. Nathan",male,0
 935,"Corbett, Mrs. Walter H (Irene Colvin)",female,1
 936,"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)",female,1
@@ -48,7 +48,7 @@ PassengerId,Name,Sex,Survive prediction
 938,"Chevre, Mr. Paul Romaine",male,0
 939,"Shaughnessy, Mr. Patrick",male,0
 940,"Bucknell, Mrs. William Robert (Emma Eliza Ward)",female,1
-941,"Coutts, Mrs. William (Winnie Minnie"" Treanor)""",female,1
+941,"Coutts, Mrs. William (Winnie Minnie"" Treanor)""",female,0
 942,"Smith, Mr. Lucien Philip",male,0
 943,"Pulbaum, Mr. Franz",male,0
 944,"Hocking, Miss. Ellen Nellie""""",female,1
@@ -71,7 +71,7 @@ PassengerId,Name,Sex,Survive prediction
 961,"Fortune, Mrs. Mark (Mary McDougald)",female,1
 962,"Mulvihill, Miss. Bertha E",female,1
 963,"Minkoff, Mr. Lazar",male,0
-964,"Nieminen, Miss. Manta Josefina",female,1
+964,"Nieminen, Miss. Manta Josefina",female,0
 965,"Ovies y Rodriguez, Mr. Servando",male,0
 966,"Geiger, Miss. Amalie",female,1
 967,"Keeping, Mr. Edwin",male,0
@@ -89,7 +89,7 @@ PassengerId,Name,Sex,Survive prediction
 979,"Badman, Miss. Emily Louisa",female,1
 980,"O'Donoghue, Ms. Bridget",female,1
 981,"Wells, Master. Ralph Lester",male,1
-982,"Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)",female,1
+982,"Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)",female,0
 983,"Pedersen, Mr. Olaf",male,0
 984,"Davidson, Mrs. Thornton (Orian Hays)",female,1
 985,"Guest, Mr. Robert",male,0
@@ -97,7 +97,7 @@ PassengerId,Name,Sex,Survive prediction
 987,"Tenglin, Mr. Gunnar Isidor",male,0
 988,"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",female,1
 989,"Makinen, Mr. Kalle Edvard",male,0
-990,"Braf, Miss. Elin Ester Maria",female,1
+990,"Braf, Miss. Elin Ester Maria",female,0
 991,"Nancarrow, Mr. William Henry",male,0
 992,"Stengel, Mrs. Charles Emil Henry (Annie May Morris)",female,1
 993,"Weisz, Mr. Leopold",male,0
@@ -108,7 +108,7 @@ PassengerId,Name,Sex,Survive prediction
 998,"Buckley, Mr. Daniel",male,0
 999,"Ryan, Mr. Edward",male,0
 1000,"Willer, Mr. Aaron (Abi Weller"")""",male,0
-1001,"Swane, Mr. George",male,0
+1001,"Swane, Mr. George",male,1
 1002,"Stanton, Mr. Samuel Ward",male,0
 1003,"Shine, Miss. Ellen Natalia",female,1
 1004,"Evans, Miss. Edith Corse",female,1
@@ -137,7 +137,7 @@ PassengerId,Name,Sex,Survive prediction
 1027,"Carlsson, Mr. Carl Robert",male,0
 1028,"Zakarian, Mr. Mapriededer",male,0
 1029,"Schmidt, Mr. August",male,0
-1030,"Drapkin, Miss. Jennie",female,1
+1030,"Drapkin, Miss. Jennie",female,0
 1031,"Goodwin, Mr. Charles Frederick",male,0
 1032,"Goodwin, Miss. Jessie Allis",female,0
 1033,"Daniels, Miss. Sarah",female,1
@@ -148,27 +148,27 @@ PassengerId,Name,Sex,Survive prediction
 1038,"Hilliard, Mr. Herbert Henry",male,0
 1039,"Davies, Mr. Evan",male,0
 1040,"Crafton, Mr. John Bertram",male,0
-1041,"Lahtinen, Rev. William",male,1
+1041,"Lahtinen, Rev. William",male,0
 1042,"Earnshaw, Mrs. Boulton (Olive Potter)",female,1
 1043,"Matinoff, Mr. Nicola",male,0
 1044,"Storey, Mr. Thomas",male,0
-1045,"Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)",female,1
+1045,"Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)",female,0
 1046,"Asplund, Master. Filip Oscar",male,0
 1047,"Duquemin, Mr. Joseph",male,0
 1048,"Bird, Miss. Ellen",female,1
-1049,"Lundin, Miss. Olga Elida",female,1
-1050,"Borebank, Mr. John James",male,0
-1051,"Peacock, Mrs. Benjamin (Edith Nile)",female,1
+1049,"Lundin, Miss. Olga Elida",female,0
+1050,"Borebank, Mr. John James",male,1
+1051,"Peacock, Mrs. Benjamin (Edith Nile)",female,0
 1052,"Smyth, Miss. Julia",female,1
 1053,"Touma, Master. Georges Youssef",male,1
 1054,"Wright, Miss. Marion",female,1
 1055,"Pearce, Mr. Ernest",male,0
-1056,"Peruschitz, Rev. Joseph Maria",male,1
-1057,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",female,1
+1056,"Peruschitz, Rev. Joseph Maria",male,0
+1057,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",female,0
 1058,"Brandeis, Mr. Emil",male,0
 1059,"Ford, Mr. Edward Watson",male,0
 1060,"Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)",female,1
-1061,"Hellstrom, Miss. Hilda Maria",female,1
+1061,"Hellstrom, Miss. Hilda Maria",female,0
 1062,"Lithman, Mr. Simon",male,0
 1063,"Zakarian, Mr. Ortin",male,0
 1064,"Dyker, Mr. Adolf Fredrik",male,0
@@ -198,7 +198,7 @@ PassengerId,Name,Sex,Survive prediction
 1088,"Spedden, Master. Robert Douglas",male,1
 1089,"Nilsson, Miss. Berta Olivia",female,1
 1090,"Baimbrigge, Mr. Charles Robert",male,0
-1091,"Rasmussen, Mrs. (Lena Jacobsen Solvang)",female,1
+1091,"Rasmussen, Mrs. (Lena Jacobsen Solvang)",female,0
 1092,"Murphy, Miss. Nora",female,1
 1093,"Danbom, Master. Gilbert Sigvard Emanuel",male,1
 1094,"Astor, Col. John Jacob",male,1
@@ -267,7 +267,7 @@ PassengerId,Name,Sex,Survive prediction
 1157,"Lyntakoff, Mr. Stanko",male,0
 1158,"Chisholm, Mr. Roderick Robert Crispin",male,0
 1159,"Warren, Mr. Charles William",male,0
-1160,"Howard, Miss. May Elizabeth",female,1
+1160,"Howard, Miss. May Elizabeth",female,0
 1161,"Pokrnic, Mr. Mate",male,0
 1162,"McCaffry, Mr. Thomas Francis",male,0
 1163,"Fox, Mr. Patrick",male,0
@@ -279,7 +279,7 @@ PassengerId,Name,Sex,Survive prediction
 1169,"Faunthorpe, Mr. Harry",male,0
 1170,"Ware, Mr. John James",male,0
 1171,"Oxenham, Mr. Percy Thomas",male,0
-1172,"Oreskovic, Miss. Jelka",female,1
+1172,"Oreskovic, Miss. Jelka",female,0
 1173,"Peacock, Master. Alfred Edward",male,1
 1174,"Fleming, Miss. Honora",female,1
 1175,"Touma, Miss. Maria Youssef",female,1
@@ -308,7 +308,7 @@ PassengerId,Name,Sex,Survive prediction
 1198,"Allison, Mr. Hudson Joshua Creighton",male,0
 1199,"Aks, Master. Philip Frank",male,1
 1200,"Hays, Mr. Charles Melville",male,0
-1201,"Hansen, Mrs. Claus Peter (Jennie L Howard)",female,1
+1201,"Hansen, Mrs. Claus Peter (Jennie L Howard)",female,0
 1202,"Cacic, Mr. Jego Grga",male,0
 1203,"Vartanian, Mr. David",male,0
 1204,"Sadowitz, Mr. Harry",male,0
@@ -321,7 +321,7 @@ PassengerId,Name,Sex,Survive prediction
 1211,"Jefferys, Mr. Ernest Wilfred",male,0
 1212,"Andersson, Mr. Johan Samuel",male,0
 1213,"Krekorian, Mr. Neshan",male,0
-1214,"Nesson, Mr. Israel",male,0
+1214,"Nesson, Mr. Israel",male,1
 1215,"Rowe, Mr. Alfred G",male,0
 1216,"Kreuchen, Miss. Emilie",female,1
 1217,"Assam, Mr. Ali",male,0
@@ -334,7 +334,7 @@ PassengerId,Name,Sex,Survive prediction
 1224,"Thomas, Mr. Tannous",male,0
 1225,"Nakid, Mrs. Said (Waika Mary"" Mowad)""",female,1
 1226,"Cor, Mr. Ivan",male,0
-1227,"Maguire, Mr. John Edward",male,0
+1227,"Maguire, Mr. John Edward",male,1
 1228,"de Brito, Mr. Jose Joaquim",male,0
 1229,"Elias, Mr. Joseph",male,0
 1230,"Denbury, Mr. Herbert",male,0
@@ -354,11 +354,11 @@ PassengerId,Name,Sex,Survive prediction
 1244,"Dibden, Mr. William",male,0
 1245,"Herman, Mr. Samuel",male,0
 1246,"Dean, Miss. Elizabeth Gladys Millvina""""",female,1
-1247,"Julian, Mr. Henry Forbes",male,0
+1247,"Julian, Mr. Henry Forbes",male,1
 1248,"Brown, Mrs. John Murray (Caroline Lane Lamson)",female,1
 1249,"Lockyer, Mr. Edward",male,0
 1250,"O'Keefe, Mr. Patrick",male,0
-1251,"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",female,1
+1251,"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",female,0
 1252,"Sage, Master. William Henry",male,0
 1253,"Mallet, Mrs. Albert (Antoinette Magnin)",female,1
 1254,"Ware, Mrs. John James (Florence Louise Long)",female,1
@@ -366,7 +366,7 @@ PassengerId,Name,Sex,Survive prediction
 1256,"Harder, Mrs. George Achilles (Dorothy Annan)",female,1
 1257,"Sage, Mrs. John (Annie Bullen)",female,0
 1258,"Caram, Mr. Joseph",male,0
-1259,"Riihivouri, Miss. Susanna Juhantytar Sanni""""",female,1
+1259,"Riihivouri, Miss. Susanna Juhantytar Sanni""""",female,0
 1260,"Gibson, Mrs. Leonard (Pauline C Boeson)",female,1
 1261,"Pallas y Castello, Mr. Emilio",male,0
 1262,"Giles, Mr. Edgar",male,0
@@ -375,14 +375,14 @@ PassengerId,Name,Sex,Survive prediction
 1265,"Harbeck, Mr. William H",male,0
 1266,"Dodge, Mrs. Washington (Ruth Vidaver)",female,1
 1267,"Bowen, Miss. Grace Scott",female,1
-1268,"Kink, Miss. Maria",female,1
+1268,"Kink, Miss. Maria",female,0
 1269,"Cotterill, Mr. Henry Harry""""",male,0
 1270,"Hipkins, Mr. William Edward",male,0
 1271,"Asplund, Master. Carl Edgar",male,0
 1272,"O'Connor, Mr. Patrick",male,0
 1273,"Foley, Mr. Joseph",male,0
-1274,"Risien, Mrs. Samuel (Emma)",female,1
-1275,"McNamee, Mrs. Neal (Eileen O'Leary)",female,1
+1274,"Risien, Mrs. Samuel (Emma)",female,0
+1275,"McNamee, Mrs. Neal (Eileen O'Leary)",female,0
 1276,"Wheeler, Mr. Edwin Frederick""""",male,0
 1277,"Herman, Miss. Kate",female,1
 1278,"Aronsson, Mr. Ernst Axel Algot",male,0
@@ -411,7 +411,7 @@ PassengerId,Name,Sex,Survive prediction
 1301,"Peacock, Miss. Treasteall",female,1
 1302,"Naughton, Miss. Hannah",female,1
 1303,"Minahan, Mrs. William Edward (Lillian E Thorpe)",female,1
-1304,"Henriksson, Miss. Jenny Lovisa",female,1
+1304,"Henriksson, Miss. Jenny Lovisa",female,0
 1305,"Spector, Mr. Woolf",male,0
 1306,"Oliva y Ocana, Dona. Fermina",female,1
 1307,"Saether, Mr. Simon Sivertsen",male,0
